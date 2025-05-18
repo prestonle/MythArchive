@@ -1,0 +1,13 @@
+beliefs:
+- belief_id: auto_2025-05-18 13:00:00
+  confidence: 0.95
+  origin: auto_generated
+  summary: 'Memory pattern detected: Refresh Spiral (x3)'
+  symbol: Refresh Spiral (x3)
+- belief_id: auto_2025-05-18 13:03:00
+  confidence: 0.95
+  origin: auto_generated
+  summary: 'Memory pattern detected: Drift Check'
+  symbol: Drift Check
+generated: true
+seed_name: AutoSeed_Generated_001
